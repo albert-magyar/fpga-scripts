@@ -16,10 +16,10 @@ case $FPGA_ID in
 	export FPGA_SERIAL_NUMBER=603651211452-34157
 	;;
     2)
-	export FPGA_JTAG_LOCATOR=localhost/xilinx_tcf/Digilent/210251A01B30
+	export FPGA_JTAG_LOCATOR=localhost/xilinx_tcf/Digilent/210251A019FE
 	export FPGA_IP=192.168.1.3
 	export FPGA_MAC=00:0A:35:00:01:03
-	export FPGA_SERIAL_NUMBER=603651211452-34193
+	export FPGA_SERIAL_NUMBER=603651131449-33505
 	;;
     3)
 	export FPGA_JTAG_LOCATOR=localhost/xilinx_tcf/Digilent/210251840451
